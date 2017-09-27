@@ -1,6 +1,6 @@
 # CGU Microprocessors Lab (Fall 2017)
 
-## Coming-up Labs (2017/09/21)
+## Coming-up Labs (2017/09/28)
 
 - [Lab01: Basic 8051 Programming](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab01-8051_intro)
 
