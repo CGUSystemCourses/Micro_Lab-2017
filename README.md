@@ -12,3 +12,6 @@
 - [Big8051 Experiment Board Manual](https://download.mikroe.com/documents/full-featured-boards/easy/big8051-v6/big8051-manual-v100.pdf 
 )
 
+- [Architecture and Programming of 8051 MCUs](https://learn.mikroe.com/ebooks/8051programming/)
+
+
