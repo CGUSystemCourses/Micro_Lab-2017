@@ -2,7 +2,7 @@
 
 ## Coming-up Labs (2017/09/21)
 
-- [Lab00: Course Introduction](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab00-course_intro)
+- [Lab01: Basic 8051 Programming](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab01-8051_intro)
 
 ## Resources
 
