@@ -2,11 +2,7 @@
 
 ## Coming-up Labs (2017/10/05)
 
-- [Lab01: Basic 8051 Programming](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab01-8051_intro)
-
-## Prelab report (due 2017/10/12)
-
-- [Lab02: GPIO](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab02-gpio)
+- [Lab03: Timer Interrupt](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab03-timer_intr)
 
 ## Resources
 
