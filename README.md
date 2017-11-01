@@ -1,6 +1,6 @@
 # CGU Microprocessors Lab (Fall 2017)
 
-## Coming-up Labs (2017/10/05)
+## Coming-up Labs
 
 - [Lab04: Button Control](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab04-button)
 
