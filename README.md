@@ -2,7 +2,7 @@
 
 ## Coming-up Labs (2017/10/05)
 
-- [Lab03: Timer Interrupt](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab03-timer_intr)
+- [Lab04: Button Control](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab04-button)
 
 ## Resources
 
