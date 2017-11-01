@@ -14,4 +14,6 @@
 
 - [Architecture and Programming of 8051 MCUs](https://learn.mikroe.com/ebooks/8051programming/)
 
+- [LCD Programming Guide](http://www.8052.com/tutlcd.phtml)
+
 
