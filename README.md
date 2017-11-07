@@ -2,7 +2,7 @@
 
 ## Coming-up Labs
 
-- [Lab04: Button Control](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab04-button)
+- [Lab05: LCD Display](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab05-LCD)
 
 ## Resources
 
