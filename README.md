@@ -4,6 +4,8 @@
 
 - [Lab05: LCD Display](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab05-LCD)
 
+- [Midterm Project: Multi-Function Digital Watch](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Midterm)
+
 ## Resources
 
 - [SiliconLab C8051F040 SoC Data Sheet](https://www.silabs.com/documents/public/data-sheets/C8051F04x.pdf
