@@ -2,9 +2,7 @@
 
 ## Coming-up Labs
 
-- [Lab05: LCD Display](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab05-LCD)
-
-- [Midterm Project: Multi-Function Digital Watch](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Midterm)
+- [Lab06: Graphics LCD Display](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab06-Graphics_LCD)
 
 ## Resources
 
