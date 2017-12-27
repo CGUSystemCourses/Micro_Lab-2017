@@ -2,7 +2,7 @@
 
 ## Coming-up Labs
 
-- [Lab06: Graphics LCD Display](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab06-Graphics_LCD)
+- [Lab07: Sound Control](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab07-sound)
 
 ## Resources
 
