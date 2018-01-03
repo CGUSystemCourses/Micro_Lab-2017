@@ -4,6 +4,8 @@
 
 - [Lab07: Sound Control](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Lab07-sound)
 
+- [Final Project](https://github.com/CGUSystemCourses/Micro_Lab-2017/tree/master/Labs/Final)
+
 ## Resources
 
 - [SiliconLab C8051F040 SoC Data Sheet](https://www.silabs.com/documents/public/data-sheets/C8051F04x.pdf
